@@ -12,3 +12,9 @@
 
 # Ignore .git
 .git
+
+# Ignore .babelrc
+.babelrc
+
+#Ignore npm-debug.log
+npm-debug.log
